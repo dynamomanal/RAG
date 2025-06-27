@@ -1,0 +1,5 @@
+fais package splits theb pdfs into small chunks and create embeddings of , Convert each chunk into a vector You embed the question
+
+Use FAISS to find the most relevant chunks (by comparing vectors)
+
+
