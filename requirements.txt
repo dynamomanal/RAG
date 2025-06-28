@@ -1,7 +1,26 @@
+# openai
+# langchain
+# faiss-cpu
+# pymupdf
+# tiktoken
+# streamlit
+# python-dotenv
+
+
+# Backend
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+passlib[bcrypt]
+python-jose
 openai
 langchain
-faiss-cpu
-pymupdf
-tiktoken
+chromadb
+
+# Frontend
 streamlit
-python-dotenv
+requests
+
+faiss-cpu
+tiktoken
